@@ -29,12 +29,12 @@ public class SwaggerConfig {
 	    }
 	    private ApiInfo apiInfo() {
 			return new ApiInfoBuilder()
-					.title("RestApi Example")
-					.description("Spring Rest API reference")
+					.title("RestTemplate Example")
+					.description("How to consume third party Api with swagger!")
 					.licenseUrl("avanish.as@gmail.com")
 					.version("1.0")
 					.build();
-		}
+	    }
 	//Second way of swagger example
 //	  @Bean
 //	    public Docket api() {
