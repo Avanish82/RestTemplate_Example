@@ -2,8 +2,7 @@ package com.apiconsume.service;
 
 import java.util.Arrays;
 import java.util.HashMap; 
-import java.util.Map;
-import java.util.Optional;
+import java.util.Map; 
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
